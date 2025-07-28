@@ -1,6 +1,6 @@
-# spring-config-repo/application.yml
-server:
-  port: 0
+# application.yml
+welcome:
+  message: Hello from default config!
 
 spring:
   application:
